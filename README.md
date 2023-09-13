@@ -14,3 +14,5 @@ wget https://raw.githubusercontent.com/NonneTrapuE/Easy_Linux/main/hosts.sh
 chmod +x hosts.sh
 sudo ./hosts.sh
 ```
+
+## Others scripts are in process. Thanks to support if you like my jobs! :D  
