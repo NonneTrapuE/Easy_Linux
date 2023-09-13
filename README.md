@@ -10,6 +10,7 @@ This script is agnostic : it works on several Linux distributions.
 To use this script :
 
 ```
-wget url
+wget https://raw.githubusercontent.com/NonneTrapuE/Easy_Linux/main/hosts.sh
+chmod +x hosts.sh
 sudo ./hosts.sh
 ```
